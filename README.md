@@ -1,2 +1,3 @@
-# Basics-MiscRepo
-this repo contains a lot of python practice labs and some github practice and someother stuff
+# Summary
+This repo contains about 12 Python labs along with the work I did during a github course I took and several other notebooks and pdfs on core concepts like OOP, databases, and web related concepts.
+
